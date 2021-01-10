@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>POST ROUTE || </title>
+</head>
+
+<body>
+    <h1>Hey wait a minute mr postman!</h1>
+    <h2> {{ $post }}</h2>
+</body> 
+</html>
